@@ -1,4 +1,4 @@
 Student Name:Tamanna Abbas
 Student number:648956
 class:IT1B 
-github url: https://github.com/Tamanna299/Final-assesment
+github url: https://github.com/Tamanna299/HI-sports-club-website
